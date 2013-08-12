@@ -32,7 +32,7 @@ var methods = [
   'ftruncate',
   'chown',
   'fchown',
-  'lchown',
+  //'lchown',
   'chmod',
   'fchmod',
   'stat',
